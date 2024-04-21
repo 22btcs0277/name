@@ -34,7 +34,7 @@ const ExampleMode2 = mongoose.model('private', exampleSchema);
  
     // Create a new example document
     const exampleDocument = new ExampleModel({
-      name: 'aryan maurya ',
+      name: 'golu maurya ',
       age: 30,
       email: 'john@example.com'
     });
